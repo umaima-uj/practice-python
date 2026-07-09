@@ -1,7 +1,7 @@
 print ("1  addition")
 print ("2  subtraction")
 print ("3 multiplication")
-print ("4  division"2)
+print ("4  division")
 operation = int(input("please select an operation:"))
 if(operation in [1,2,3,4]):
      num1 = float(input("choose first number:"))
