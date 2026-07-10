@@ -15,7 +15,7 @@ if(operation in [1,2,3,4]):
          result = num1 * num2
      elif (operation ==4):
          result =num1/num2
-         
+    
      else:
          print("invalid operation")
          
